@@ -2,7 +2,6 @@
 This is an advanced dictionary of the Sakal language for advanced learners.
 
 ## A
-- Kaise ho? - How are you?
 - Aap kaise hain? - How are you? (formal)
 - Aasman - Sky
 
